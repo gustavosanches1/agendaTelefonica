@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agênda Telefônica</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="excluir">Excluir</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="editCodigo">Código:</string>
+    <string name="editNome">Nome:</string>
+    <string name="editTelefone">Telefone:</string>
+    <string name="editEndereco">Endereço:</string>
+    <string name="buscar">Buscar</string>
+</resources>

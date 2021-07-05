@@ -19,4 +19,5 @@ Colocar nome , telefone e endereço e gravar, depois de gravado aparecerá uma m
 Botão rapido de facil acesso ao agendar pessoa;
 Botão de busca por pessoa;
 
+não usei api , por questão própria. banco em memória seria mais rapido e facil.
 

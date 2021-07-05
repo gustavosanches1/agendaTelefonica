@@ -1,0 +1,24 @@
+com/example/agendatelefonica/BuildConfig.java
+ com.example.agendatelefonica.BuildConfig
+com/example/agendatelefonica/adapters/PessoaAdapter.java
+ com.example.agendatelefonica.adapters.PessoaAdapter
+com/example/agendatelefonica/controller/ConexaoSQLite.java
+ com.example.agendatelefonica.controller.ConexaoSQLite
+com/example/agendatelefonica/DAO/PessoaDAO.java
+ com.example.agendatelefonica.DAO.PessoaDAO
+com/example/agendatelefonica/model/Pessoa.java
+ com.example.agendatelefonica.model.Pessoa
+com/example/agendatelefonica/view/SplashActivity.java
+ com.example.agendatelefonica.view.SplashActivity
+ com.example.agendatelefonica.view.SplashActivity$1
+ com.example.agendatelefonica.view.SplashActivity$2
+com/example/agendatelefonica/view/AgendarPessoa.java
+ com.example.agendatelefonica.view.AgendarPessoa
+com/example/agendatelefonica/view/ListPessoa.java
+ com.example.agendatelefonica.view.ListPessoa
+ com.example.agendatelefonica.view.ListPessoa$1
+ com.example.agendatelefonica.view.ListPessoa$2
+com/example/agendatelefonica/view/MainActivity.java
+ com.example.agendatelefonica.view.MainActivity
+ com.example.agendatelefonica.view.MainActivity$1
+ com.example.agendatelefonica.view.MainActivity$2
